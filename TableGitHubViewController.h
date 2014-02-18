@@ -1,5 +1,5 @@
 //
-//  OWViewController.h
+//  TableGitHubViewController.h
 //  UITableView Github
 //
 //  Created by Brad Hellyar on 2/17/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface OWViewController : UIViewController
+@interface TableGitHubViewController : UITableViewController
 
 @end
